@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Adi" src="img/my-name.png" /></a></p>
+<p align="center"><a href="https://github.com/adimaulanaa/"><img width="80%" alt="Hello, I'm Adi" src="img/my-name.png" /></a></p>
 
 I’m a passionate Mobile Developer from Indonesia, focusing on Flutter to build impactful and high-quality apps.
 
